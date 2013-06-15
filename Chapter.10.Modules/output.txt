@@ -1,0 +1,6 @@
+dir(sys):
+dir():
+a = 5
+dir()
+del a
+dir()

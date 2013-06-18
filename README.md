@@ -3,7 +3,9 @@ Byte.of.Python
 
 Gerry Qingwei Zhang <qzhang.canada@gmail.com>
 
-data: 2013-06-14
+Data: 2013-06-14
+
+
 
 The python source code I write to practice. I use the following tutorial book to learn Python.
 
